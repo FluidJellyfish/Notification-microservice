@@ -40,7 +40,7 @@ the timestamp, type, contact, and message as seen within the notifications.json 
 
 # UML Diagram
 
-![UML Diagram](images/UML.jpeg)
+![UML Diagram](images/UML.jpg)
 
 
 
