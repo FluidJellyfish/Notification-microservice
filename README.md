@@ -38,6 +38,11 @@ The returned notification includes:
 the timestamp, type, contact, and message as seen within the notifications.json file
 
 
+# UML Diagram
+
+![UML Diagram](images/UML.jpeg)
+
+
 
 
 
